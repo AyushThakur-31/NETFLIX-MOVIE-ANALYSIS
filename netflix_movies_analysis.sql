@@ -1,0 +1,2 @@
+CREATE DATABASE netflix_movies;
+USE netflix_movies
